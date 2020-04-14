@@ -4,6 +4,7 @@ zuul.routes.organizationservice: /organizationasappp/**
 zuul.routes.licensingservice: /licensing/**
 zuul.routes.xxxx: /xxxx/**
 zuul.routes.xxxxxxxx: /xxxxxx/**
+zuul.routes.xxxxxxxxyyyy: /xxxxxxyyyyyy/**
 #zuul.routes.authenticationservice: /auth/**
 #zuul.routes.licensestatic.path: /licensestatic/**
 #zuul.routes.licensestatic.url:  http://licenseservice-static:8081
